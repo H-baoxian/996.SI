@@ -1,7 +1,7 @@
 
 # 996.SI
 
-由于主站996.ICU Issues暂时关闭，大家的issues可以先发在这里
+由于主站[996.ICU](https://github.com/996icu/996.ICU) 暂时关闭，大家的issues可以先发在这里
 
 此repo主要解答大家的社保、劳动纠纷（如薪资、调岗等），ISSUE标题请按照格式：
 
